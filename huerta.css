@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://img.freepik.com/foto-gratis/vista-superior-plantas-verdes-crecimiento-fondo_1353-281.jpg?size=664&ext=jpg");
+}
+div {
+    font-style: sans-serif;
+    color: #404040;
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: white;
+    opacity: 0.95;
+    border-radius: 10px;
+    }
+h1 { 
+    font-size: 45px;
+    font-style: arial;
+    color: green;;
+    
+}
+table, th, td {
+    border: 1px solid black;
+    color: black;
+  }
+h2 {
+    color: #D84747;
+}
+u {
+    color: green;
+}
+button {
+    background-color: #2C4ACD;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+    margin-right: 50px;
+}
+img {
+    border-radius: 100px;
+}
+h5 {
+    color: solid;
+}
